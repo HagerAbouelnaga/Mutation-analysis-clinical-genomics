@@ -47,15 +47,11 @@ This illustrates potential functional relationships and pathway involvement.
 
 Note: Visualization is simplified and anonymized.
 
-### Gene-Function Network (Signaling Pathways)
+### Mutation Landscape (Oncoplot)
 
-![Network](network_plot.png)
+An oncoplot was generated to visualize the distribution of recurrent mutations across samples, highlighting key driver genes.
 
-Network representation linking mutated genes to key signaling pathways.
-
-This illustrates potential functional relationships and pathway involvement.
-
-Note: Visualization is simplified and anonymized.
+Note: The full visualization is not displayed to maintain clarity and avoid overcrowding.
 
 ## Clinical Relevance
 
